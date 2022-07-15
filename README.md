@@ -8,7 +8,7 @@ Depois de muito tempo de edições a data chegou na sua Versão 15.5.2.0, Olympu
 
 **Modificações que a Data possui**
 
-•A data possui +140 veiculos modificados variando entre nacionais e importados, indo de carros a vans, caminhões reboques, motos e helicópteros, foi editado a estabilidade e dos carro sendo quase impossível capotar o carro faznedl com que ele fique virado de rodas para cima, 90% dos carros modificados possui sua propria velocidade configurada para que combine mais com o veiculo usado em como substituto.
+•A data possui +140 veiculos modificados variando entre nacionais e importados, indo de carros a vans, caminhões reboques, motos e helicópteros, foi editado a estabilidade e dos carro sendo quase impossível capotar o carro faznedl com que ele fique virado de rodas para cima, 90% dos carros modificados possui sua propria velocidade configurada para que combine mais com o veiculo usado como substituto.
 
 •Possui também +100 de skins modificadas sendo que 30% dessa skins sendo exclusivas da olympus, elas foram feitas e editadas pelo proprio criador da data, a quantidade de skins é dividida quase que igualmente entre skins masculinas e skins femininas
 
