@@ -12,7 +12,7 @@ Depois de muito tempo de edições a data chegou na sua Versão 15.5.2.0, Olympu
 
 •Possui também +100 de skins modificadas sendo que 30% dessa skins sendo exclusivas da olympus, elas foram feitas e editadas pelo proprio criador da data, a quantidade de skins é dividida quase que igualmente entre skins masculinas e skins femininas
 
-•A data possui toda a interface do menu modificada
+•Interface do menu modificada
 
 •Miras Modificadas
 
