@@ -28,4 +28,4 @@ Depois de muito tempo de edições a data chegou na sua Versão 15.5.2.0, Olympu
 
 *Data universal*
 
-•link: (https://www.mediafire.com/file/dgor6ftz1p58y7a/DATA_OLP_V15_%257BUNI%257D.rar/file)
+•link: (https://4br.me/Olynpus-V15)
